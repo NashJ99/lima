@@ -1,0 +1,58 @@
+/* .col1{
+    position: static;
+    bottom: 3;
+    right: 1;
+    width: 300px;
+}
+.col2{
+    position: fixed;
+    bottom: 3;
+    right: 2;
+    width: 300px;
+}
+.col3{
+    position: fixed;
+    bottom: 3;
+    right: 3;
+    width: 300px;
+}
+.col4{
+    position: fixed;
+    bottom: 3;
+    right: 4;
+    width: 300px;
+/* }  remove if not used */
+.container1{
+   position: fixed; 
+   left: 300px;
+   top: 200px;
+   /* this keeps the buttons from wrapping around the text making them somewhat uniformed */
+   white-space: nowrap;
+}
+.container2{
+    position: fixed;
+    left: 300px;
+    top:200px;
+    white-space: nowrap;
+}
+.container3{
+    position: fixed;
+    white-space: nowrap ;
+}
+.container4{
+    position: fixed;
+    white-space: nowrap;
+    top: 200px;
+}
+.head { width:100%;
+     background-color:#4b4b4b;
+      min-height:50px; 
+      padding:10px 0px 25px 0px ;}
+.foot{
+    background-color:#4b4b4b;
+    position: fixed;
+    top: 500px;
+    min-height:150px; 
+    padding:10px 0px 25px 0px ;
+    width: 100%;
+}
